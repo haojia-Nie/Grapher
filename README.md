@@ -1,5 +1,6 @@
 # A2 Grapher
-Haojia Nie (h7nie 20770220)
+<img width="450" alt="Screen Shot 2022-05-08 at 3 34 08 PM" src="https://user-images.githubusercontent.com/52882728/167318525-6995379a-184b-4719-b9b7-d548b4dd844f.png">
+
 
 ## Setup
 * macOS 11.2.3 Big Sur 
@@ -9,10 +10,18 @@ Haojia Nie (h7nie 20770220)
 * Java SDK 16.0.2 (Amazon Corretto verssion 16.0.2)
 * Target JVM Version 1.8
 
-## Enhancement 
-I added an new functionality that makes the graph be interactive. When you put the mouse inside the rectangle bar and click, that bar will fade out from the graph. There is no way to bring the bar back to the graph unless the user click on other dataset and re-enter this dataset again. 
+## Functionalities 
+1. Change title, x-axis, y-axis 
+2. Add new graph dataset
+3. Change the value of the bar graph and update immediately on the graph
+4. Resize the window with the window arranged correspondingly
+5. Click on any bar and it will disappear for easy compaison, next time when re-enter the window it will appear again
+6. When the data changes, the data view on the left side will update the max, min and average
 
-This allows the user to compare specific datapoints. Other functionalities stay the same as before. It is just that the clicked bar will not be showing to the canvas anymore.
 
-For example, at Increasing Dataset, if the user click right most rectangle bar in the bargraph. That bar will fade out, the others remain. After that, the user choose another dataset from the choice box. Then, when the user return back to the Increasing Dataset, all the bars will show again. 
+## Demo Video
+
+
+
+https://user-images.githubusercontent.com/52882728/167318549-9ee22b59-f329-4c22-b013-532c5b59b206.mov
 
