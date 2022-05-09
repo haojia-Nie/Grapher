@@ -1,4 +1,4 @@
-# A2 Grapher
+# Grapher
 <img width="450" alt="Screen Shot 2022-05-08 at 3 34 08 PM" src="https://user-images.githubusercontent.com/52882728/167318525-6995379a-184b-4719-b9b7-d548b4dd844f.png">
 
 
